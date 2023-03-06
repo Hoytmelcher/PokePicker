@@ -1,1 +1,1 @@
-gunicorn "app"
+gunicorn "app:create_app()"
